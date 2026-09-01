@@ -2,3 +2,5 @@
 Paper Publication
 
 IEEE - https://ieeexplore.ieee.org/document/10895214
+
+Scopus - https://www.scopus.com/pages/publications/105000623462
